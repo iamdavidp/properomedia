@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    id="Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 316.34 254.48">
+    <defs>
+        <style>.propero-logo{fill:var(--text-primary-color);stroke-miterlimit:10;}</style>
+    </defs>
+    <path class="propero-logo"
+        d="m.84.53h241s74-4,74,88-70,90-70,90H104.3l-18.45-32h152s40.99-2.02,40.99-57.01-42.99-55.99-42.99-55.99H18.84L.84.53Z" />
+    <polygon class="propero-logo"
+        points="149.84 253.53 253.84 74.53 84.59 74.53 97.84 50.53 58.75 50.53 44.84 73.53 63.84 106.53 192.84 106.53 128.84 221.53 149.84 253.53" />
+</svg>
